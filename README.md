@@ -1,9 +1,9 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/69192055?v=4">
- <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/69192055?v=4">
- <img alt="YOUR-ALT-TEXT" src="https://avatars.githubusercontent.com/u/69192055?v=4">
-</picture>
+## About me
 
+Hi, I'm Ahammed Irfan. I am a BTech Graduate in ECE. A Full stack developer from Kerala.
+- 🔭 I’m currently working on ...Python, Django, Flask
+- 🌱 I’m currently learning ...Javascript
+- 📫 How to reach me: ...irfanpa005@gmail.com
 <!--
 **irfanpa005/irfanpa005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
