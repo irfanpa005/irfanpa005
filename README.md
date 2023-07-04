@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAG](https://avatars.githubusercontent.com/u/69192055?v=4)E">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAG](https://avatars.githubusercontent.com/u/69192055?v=4)E">
- <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAG](https://avatars.githubusercontent.com/u/69192055?v=4)E">
+ <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/69192055?v=4">
+ <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/69192055?v=4">
+ <img alt="YOUR-ALT-TEXT" src="https://avatars.githubusercontent.com/u/69192055?v=4">
 </picture>
 
 <!--
