@@ -1,8 +1,8 @@
 ## About me
 
 Hi, I'm Ahammed Irfan. I am a BTech Graduate in ECE. A Full stack developer from Kerala.
-- 🔭 I’m currently working on ...Python, Django, Flask
-- 🌱 I’m currently learning ...Javascript
+- 🔭 I’m currently working on ...Python, Django, Flask, Javascript
+- 🌱 I’m currently learning ...React
 - 📫 How to reach me: ...irfanpa005@gmail.com
 <!--
 **irfanpa005/irfanpa005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
