@@ -39,44 +39,56 @@ I'm a full stack developer focused on building clean, scalable web applications.
 
 ---
 
-## Tech Stack
+## 🛠️ Technologies I Work With
 
-**Backend**
-`Python` `Django` `Flask` `FastAPI` `REST API`
+### Backend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
-**Frontend**
-`React` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap`
+### Frontend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-**Databases & Infrastructure**
-`PostgreSQL` `MySQL` `MongoDB` `Redis` `Docker` `Linux` `Git`
+### Database & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
-**Currently Learning**
-`Go` `TypeScript` `AWS` `Node.js`
+### Currently Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
 
-**Also Explored**
-`Vue.js` `Express` `Nginx` `GraphQL` `jQuery`
-
----
-
-## Skill Levels
-
-| Skill        | Proficiency |
-|:-------------|:------------|
-| HTML / CSS   | ████████████████████ 90% |
-| Python       | ████████████████░░░░ 85% |
-| Git          | ████████████████░░░░ 80% |
-| JavaScript   | ███████████████░░░░░ 75% |
-| REST APIs    | ███████████████░░░░░ 75% |
-| React        | ██████████████░░░░░░ 70% |
-| SQL          | ██████████████░░░░░░ 70% |
-| Django       | █████████████░░░░░░░ 65% |
-| PostgreSQL   | █████████████░░░░░░░ 65% |
-| Flask        | ████████████░░░░░░░░ 60% |
-| MongoDB      | ███████████░░░░░░░░░ 55% |
-| Docker       | ██████████░░░░░░░░░░ 50% |
-| Node.js      | █████████░░░░░░░░░░░ 45% |
-| TypeScript   | ████████░░░░░░░░░░░░ 40% |
-| Go           | ███░░░░░░░░░░░░░░░░░ 15% *(learning)* |
+### Also Explored
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+</p>
 
 ---
 
