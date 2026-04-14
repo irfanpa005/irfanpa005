@@ -20,7 +20,6 @@ class FullStackDeveloper:
         self.education   = "BTech in Electronics & Communication Engineering"
         self.stack       = ["Python", "Django", "Flask", "React", "PostgreSQL","Docker"]
         self.learning    = ["Go", "TypeScript", "AWS"]
-        self.open_to     = ["Full-time", "Freelance", "Open source"]
 
     def say_hi(self):
         print("Let's build something great together.")
