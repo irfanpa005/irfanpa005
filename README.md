@@ -18,8 +18,8 @@ class FullStackDeveloper:
         self.name        = "Ahammed Irfan"
         self.location    = "Kerala, India"
         self.education   = "BTech in Electronics & Communication Engineering"
-        self.stack       = ["Python", "Django", "Flask", "React", "PostgreSQL"]
-        self.learning    = ["Go", "TypeScript", "Docker", "AWS"]
+        self.stack       = ["Python", "Django", "Flask", "React", "PostgreSQL","Docker"]
+        self.learning    = ["Go", "TypeScript", "AWS"]
         self.open_to     = ["Full-time", "Freelance", "Open source"]
 
     def say_hi(self):
@@ -94,13 +94,17 @@ I'm a full stack developer focused on building clean, scalable web applications.
 
 ## GitHub Stats
 
+<!-- <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irfanpa005&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanpa005&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
+</div> -->
+
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=irfanpa005&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanpa005&layout=compact&langs_count=8&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanpa005&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanpa005&theme=default&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=irfanpa005&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ---
